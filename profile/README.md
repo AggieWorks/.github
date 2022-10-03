@@ -10,8 +10,8 @@ AggieWorks is a community of product managers, product designers, and software e
 
 # How do I join?
 
-If you are a UC Davis student interested in joining us, visit (aggieworks.org/join)[https://aggieworks.org/join] to read about our requirements and if we aren't currently recruiting, please email as at (aggieworksatucd@gmail.com)[mailto:aggieworksatucd@gmail.com]!
+If you are a UC Davis student interested in joining us, visit [aggieworks.org/join](https://aggieworks.org/join) to apply and read our requirements. If we are not currently recruiting, please email as at [hello@aggieworks.org](mailto:hello@aggieworks.org) to say hi and we'll work something out! (make sure to attach your resume/github/linkedin)
 
 # Connect with us!
 
-Learn more about us at [aggieworks.org](https://aggieworks.org) or follow us on Instagram [@ucd.aggieworks](https://instagram.com/ucd.aggieworks)! :sparkles:
+Learn more about us at [aggieworks.org](https://aggieworks.org) or follow us on Instagram [@ucd.aggieworks](https://instagram.com/ucd.aggieworks) :sparkles:
